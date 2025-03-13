@@ -190,8 +190,8 @@ ggplot(spotify_data, aes(x = decade, y = explicit_ratio)) +
 
 ## 📌 **Connect with Me**  
 - **LinkedIn:** [Shrunali Salian](https://www.linkedin.com/in/shrunali-salian/)  
-- **Portfolio:** [Your Portfolio Link](#)  
-- **Email:** [Your Email](#)  
+- **Portfolio:** [https://portfolio-shrunali-suresh-salians-projects.vercel.app/](#)  
+- **Email:** [Email](#)  
 
 ---
 Collaborators: 
